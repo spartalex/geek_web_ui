@@ -1,0 +1,84 @@
+{
+  "uid" : "d5dc121eef521f11",
+  "name" : "createNewExpenseRequest()",
+  "fullName" : "lesson6.LoginWithPageObjectTests.createNewExpenseRequest",
+  "historyId" : "2ea4088b499aaf40f3b4f78a8e3664b1",
+  "time" : {
+    "start" : 1620929224079,
+    "stop" : 1620929242722,
+    "duration" : 18643
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Клик на кнопку создания расхода",
+      "time" : {
+        "start" : 1620929232585,
+        "stop" : 1620929235274,
+        "duration" : 2689
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Тестирование создания заявки на расход"
+  }, {
+    "name" : "host",
+    "value" : "MB451055"
+  }, {
+    "name" : "thread",
+    "value" : "99366@MB451055.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "lesson6.LoginWithPageObjectTests"
+  }, {
+    "name" : "testClass",
+    "value" : "lesson6.LoginWithPageObjectTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "createNewExpenseRequest"
+  }, {
+    "name" : "suite",
+    "value" : "lesson6.LoginWithPageObjectTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5dc121eef521f11.json",
+  "parameterValues" : [ ]
+}

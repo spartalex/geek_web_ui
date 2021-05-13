@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3130ed168e921753",
+  "name" : "loginTestWithFluentPage()",
+  "time" : {
+    "start" : 1620929865567,
+    "stop" : 1620929875020,
+    "duration" : 9453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34d2f7ead5567f77",
+  "name" : "degenerateTriangleTest()",
+  "time" : {
+    "start" : 1620929875036,
+    "stop" : 1620929875215,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68ed5ea0aa0dd62c",
+  "name" : "createNewExpenseRequest()",
+  "time" : {
+    "start" : 1620929845680,
+    "stop" : 1620929865559,
+    "duration" : 19879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "144c21dbecb7bf58",
+  "name" : "loginTest()",
+  "time" : {
+    "start" : 1620929834348,
+    "stop" : 1620929845555,
+    "duration" : 11207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40f07817bd33e4c9",
+  "name" : "positiveTriangleAreaCalculationTest()",
+  "time" : {
+    "start" : 1620929875218,
+    "stop" : 1620929875227,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

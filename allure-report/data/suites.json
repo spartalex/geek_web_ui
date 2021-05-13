@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "lesson6.LoginWithPageObjectTests",
+    "children" : [ {
+      "name" : "loginTest()",
+      "uid" : "144c21dbecb7bf58",
+      "parentUid" : "d057dd619e4f585fa531a2bc92b4c1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929834348,
+        "stop" : 1620929845555,
+        "duration" : 11207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createNewExpenseRequest()",
+      "uid" : "68ed5ea0aa0dd62c",
+      "parentUid" : "d057dd619e4f585fa531a2bc92b4c1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929845680,
+        "stop" : 1620929865559,
+        "duration" : 19879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginTestWithFluentPage()",
+      "uid" : "3130ed168e921753",
+      "parentUid" : "d057dd619e4f585fa531a2bc92b4c1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929865567,
+        "stop" : 1620929875020,
+        "duration" : 9453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d057dd619e4f585fa531a2bc92b4c1a1"
+  }, {
+    "name" : "lesson6.FunctionsTests",
+    "children" : [ {
+      "name" : "degenerateTriangleTest()",
+      "uid" : "34d2f7ead5567f77",
+      "parentUid" : "5d48680a364211e0378c9a16e9fdcf74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929875036,
+        "stop" : 1620929875215,
+        "duration" : 179
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "positiveTriangleAreaCalculationTest()",
+      "uid" : "40f07817bd33e4c9",
+      "parentUid" : "5d48680a364211e0378c9a16e9fdcf74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929875218,
+        "stop" : 1620929875227,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5d48680a364211e0378c9a16e9fdcf74"
+  } ]
+}

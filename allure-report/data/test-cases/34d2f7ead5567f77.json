@@ -1,0 +1,92 @@
+{
+  "uid" : "34d2f7ead5567f77",
+  "name" : "degenerateTriangleTest()",
+  "fullName" : "lesson6.FunctionsTests.degenerateTriangleTest",
+  "historyId" : "647c50f2fdcce8607965d0933933dc18",
+  "time" : {
+    "start" : 1620929875036,
+    "stop" : 1620929875215,
+    "duration" : 179
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Тестирование вычисления площади треугольника"
+  }, {
+    "name" : "host",
+    "value" : "MB451055"
+  }, {
+    "name" : "thread",
+    "value" : "99763@MB451055.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "degenerateTriangleTest"
+  }, {
+    "name" : "suite",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6be042de604cc15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929388562,
+        "stop" : 1620929388718,
+        "duration" : 156
+      }
+    }, {
+      "uid" : "3fca6191220f42c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620929251962,
+        "stop" : 1620929252144,
+        "duration" : 182
+      }
+    }, {
+      "uid" : "743f74a1992dc42c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620928760740,
+        "stop" : 1620928760969,
+        "duration" : 229
+      }
+    }, {
+      "uid" : "bbac06c1b690feda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620928090412,
+        "stop" : 1620928090568,
+        "duration" : 156
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34d2f7ead5567f77.json",
+  "parameterValues" : [ ]
+}

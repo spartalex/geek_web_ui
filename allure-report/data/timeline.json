@@ -1,0 +1,354 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MB451055",
+    "children" : [ {
+      "name" : "99763@MB451055.main(1)",
+      "children" : [ {
+        "name" : "createNewExpenseRequest()",
+        "uid" : "68ed5ea0aa0dd62c",
+        "parentUid" : "a505f1073bd1cb93cbf439040c2a2d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929845680,
+          "stop" : 1620929865559,
+          "duration" : 19879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTestWithFluentPage()",
+        "uid" : "3130ed168e921753",
+        "parentUid" : "a505f1073bd1cb93cbf439040c2a2d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929865567,
+          "stop" : 1620929875020,
+          "duration" : 9453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "degenerateTriangleTest()",
+        "uid" : "34d2f7ead5567f77",
+        "parentUid" : "a505f1073bd1cb93cbf439040c2a2d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929875036,
+          "stop" : 1620929875215,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest()",
+        "uid" : "144c21dbecb7bf58",
+        "parentUid" : "a505f1073bd1cb93cbf439040c2a2d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929834348,
+          "stop" : 1620929845555,
+          "duration" : 11207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "positiveTriangleAreaCalculationTest()",
+        "uid" : "40f07817bd33e4c9",
+        "parentUid" : "a505f1073bd1cb93cbf439040c2a2d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929875218,
+          "stop" : 1620929875227,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a505f1073bd1cb93cbf439040c2a2d3f"
+    }, {
+      "name" : "98927@MB451055.main(1)",
+      "children" : [ {
+        "name" : "loginTest()",
+        "uid" : "c17e9cc120b3229",
+        "parentUid" : "a036e34274f4f95aec55f2f922e9b3cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928721170,
+          "stop" : 1620928732275,
+          "duration" : 11105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "positiveTriangleAreaCalculationTest()",
+        "uid" : "81f304fcc547b2",
+        "parentUid" : "a036e34274f4f95aec55f2f922e9b3cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928760973,
+          "stop" : 1620928760984,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "degenerateTriangleTest()",
+        "uid" : "743f74a1992dc42c",
+        "parentUid" : "a036e34274f4f95aec55f2f922e9b3cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928760740,
+          "stop" : 1620928760969,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewExpenseRequest()",
+        "uid" : "dd6bf558f2e670fd",
+        "parentUid" : "a036e34274f4f95aec55f2f922e9b3cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928732466,
+          "stop" : 1620928751313,
+          "duration" : 18847
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTestWithFluentPage()",
+        "uid" : "f669d7bcfcbedceb",
+        "parentUid" : "a036e34274f4f95aec55f2f922e9b3cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928751324,
+          "stop" : 1620928760726,
+          "duration" : 9402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a036e34274f4f95aec55f2f922e9b3cc"
+    }, {
+      "name" : "99492@MB451055.main(1)",
+      "children" : [ {
+        "name" : "positiveTriangleAreaCalculationTest()",
+        "uid" : "b6ee9ced1a44ea49",
+        "parentUid" : "d87b7894560ff7062eaf13928cc4a7ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929388722,
+          "stop" : 1620929388730,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "degenerateTriangleTest()",
+        "uid" : "b6be042de604cc15",
+        "parentUid" : "d87b7894560ff7062eaf13928cc4a7ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929388562,
+          "stop" : 1620929388718,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest()",
+        "uid" : "a6ac7071e45d38cd",
+        "parentUid" : "d87b7894560ff7062eaf13928cc4a7ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929349669,
+          "stop" : 1620929360346,
+          "duration" : 10677
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTestWithFluentPage()",
+        "uid" : "a6305827e3e6d912",
+        "parentUid" : "d87b7894560ff7062eaf13928cc4a7ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929379343,
+          "stop" : 1620929388546,
+          "duration" : 9203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewExpenseRequest()",
+        "uid" : "a7d19b9508b13874",
+        "parentUid" : "d87b7894560ff7062eaf13928cc4a7ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929360488,
+          "stop" : 1620929379334,
+          "duration" : 18846
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d87b7894560ff7062eaf13928cc4a7ec"
+    }, {
+      "name" : "99366@MB451055.main(1)",
+      "children" : [ {
+        "name" : "createNewExpenseRequest()",
+        "uid" : "d5dc121eef521f11",
+        "parentUid" : "46f3e361d49ac64d4297005b75d115ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929224079,
+          "stop" : 1620929242722,
+          "duration" : 18643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest()",
+        "uid" : "cf7bc08e518e3e20",
+        "parentUid" : "46f3e361d49ac64d4297005b75d115ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929213175,
+          "stop" : 1620929223947,
+          "duration" : 10772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTestWithFluentPage()",
+        "uid" : "6632352837ca3569",
+        "parentUid" : "46f3e361d49ac64d4297005b75d115ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929242734,
+          "stop" : 1620929251943,
+          "duration" : 9209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "positiveTriangleAreaCalculationTest()",
+        "uid" : "cd5df8e19f7b0fb",
+        "parentUid" : "46f3e361d49ac64d4297005b75d115ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929252147,
+          "stop" : 1620929252154,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "degenerateTriangleTest()",
+        "uid" : "3fca6191220f42c8",
+        "parentUid" : "46f3e361d49ac64d4297005b75d115ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620929251962,
+          "stop" : 1620929252144,
+          "duration" : 182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "46f3e361d49ac64d4297005b75d115ce"
+    }, {
+      "name" : "98594@MB451055.main(1)",
+      "children" : [ {
+        "name" : "loginTest()",
+        "uid" : "b90e6cd1b5be041d",
+        "parentUid" : "3a152737e7a8aa467e5c07ff1d0171f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928059922,
+          "stop" : 1620928071146,
+          "duration" : 11224
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "degenerateTriangleTest()",
+        "uid" : "bbac06c1b690feda",
+        "parentUid" : "3a152737e7a8aa467e5c07ff1d0171f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928090412,
+          "stop" : 1620928090568,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "positiveTriangleAreaCalculationTest()",
+        "uid" : "89f2349232fce064",
+        "parentUid" : "3a152737e7a8aa467e5c07ff1d0171f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928090572,
+          "stop" : 1620928090578,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewExpenseRequest()",
+        "uid" : "cbd09b634f6b9dc2",
+        "parentUid" : "3a152737e7a8aa467e5c07ff1d0171f0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620928071272,
+          "stop" : 1620928081085,
+          "duration" : 9813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTestWithFluentPage()",
+        "uid" : "7f790d27a10a5ca4",
+        "parentUid" : "3a152737e7a8aa467e5c07ff1d0171f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620928081101,
+          "stop" : 1620928090395,
+          "duration" : 9294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a152737e7a8aa467e5c07ff1d0171f0"
+    } ],
+    "uid" : "739ea77c13b7ca5bd85f58e5c668b4d2"
+  } ]
+}

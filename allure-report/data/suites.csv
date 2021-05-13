@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 13 21:17:45 MSK 2021","Thu May 13 21:17:55 MSK 2021","9453","","lesson6.LoginWithPageObjectTests","","lesson6.LoginWithPageObjectTests","loginTestWithFluentPage","loginTestWithFluentPage()",""
+"passed","Thu May 13 21:17:55 MSK 2021","Thu May 13 21:17:55 MSK 2021","179","","lesson6.FunctionsTests","","lesson6.FunctionsTests","degenerateTriangleTest","degenerateTriangleTest()",""
+"passed","Thu May 13 21:17:25 MSK 2021","Thu May 13 21:17:45 MSK 2021","19879","","lesson6.LoginWithPageObjectTests","","lesson6.LoginWithPageObjectTests","createNewExpenseRequest","createNewExpenseRequest()",""
+"passed","Thu May 13 21:17:14 MSK 2021","Thu May 13 21:17:25 MSK 2021","11207","","lesson6.LoginWithPageObjectTests","","lesson6.LoginWithPageObjectTests","loginTest","loginTest()",""
+"passed","Thu May 13 21:17:55 MSK 2021","Thu May 13 21:17:55 MSK 2021","9","","lesson6.FunctionsTests","","lesson6.FunctionsTests","positiveTriangleAreaCalculationTest","positiveTriangleAreaCalculationTest()",""

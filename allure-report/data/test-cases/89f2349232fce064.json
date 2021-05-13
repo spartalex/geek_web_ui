@@ -1,0 +1,55 @@
+{
+  "uid" : "89f2349232fce064",
+  "name" : "positiveTriangleAreaCalculationTest()",
+  "fullName" : "lesson6.FunctionsTests.positiveTriangleAreaCalculationTest",
+  "historyId" : "661fea340225eb0299119115dec4e7dc",
+  "time" : {
+    "start" : 1620928090572,
+    "stop" : 1620928090578,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MB451055"
+  }, {
+    "name" : "thread",
+    "value" : "98594@MB451055.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "positiveTriangleAreaCalculationTest"
+  }, {
+    "name" : "suite",
+    "value" : "lesson6.FunctionsTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89f2349232fce064.json",
+  "parameterValues" : [ ]
+}
